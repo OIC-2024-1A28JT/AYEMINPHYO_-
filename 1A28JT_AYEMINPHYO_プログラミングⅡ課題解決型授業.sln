@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1A28JT_AYEMINPHYO_プログラミングⅡ課題解決型授業", "1A28JT_AYEMINPHYO_プログラミングⅡ課題解決型授業\1A28JT_AYEMINPHYO_プログラミングⅡ課題解決型授業.csproj", "{99FF5D4D-BD9A-48A9-AD8C-8438BAC5DA26}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{99FF5D4D-BD9A-48A9-AD8C-8438BAC5DA26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99FF5D4D-BD9A-48A9-AD8C-8438BAC5DA26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99FF5D4D-BD9A-48A9-AD8C-8438BAC5DA26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99FF5D4D-BD9A-48A9-AD8C-8438BAC5DA26}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A9B3F292-478C-40B0-BC41-3A89A080B660}
+	EndGlobalSection
+EndGlobal
